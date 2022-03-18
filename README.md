@@ -36,3 +36,7 @@ I am a fullstack software engineer from Canada
 <img align="left" alt="aws" src="https://img.shields.io/badge/-Rails-FF0000?logo=rubyonrails&logoColor=white&style=for-the-badge" />
 <br>
 <br>
+<br>
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rambowasreal&theme=dark" alt="rambowasreal" />
