@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am a fullstack software engineer from Canada
-- 🔭 Working on multiple frontend and backend project using React and Rails
+- 🔭 Working on multiple frontend and backend project using React, React-Native and laravel
 
 <br>
 ## Connect with me
