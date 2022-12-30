@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 I am a fullstack software engineer from Canada
 - 🔭 Working on multiple frontend and backend project using React, React-Native and laravel
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/david-boutin-167651171/" target="_blank">
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
 <br>
 ## Connect with me
 <br>
