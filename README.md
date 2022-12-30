@@ -33,7 +33,7 @@ I am a fullstack software engineer from Canada
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/-Javascript-efd81d?logo=javascript&logoColor=black&style=for-the-badge" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-%230069B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/-Rails-FF0000?logo=rubyonrails&logoColor=white&style=for-the-badge" />
+<img align="left" alt="aws" src="https://img.shields.io/badge/-Laravel-FF0000?logo=rubyonrails&logoColor=white&style=for-the-badge" />
 <br>
 <br>
 <br>
