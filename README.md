@@ -1,43 +1,23 @@
-### Hi there 👋
+# David Boutin
 
-<!--
-**RamboWasReal/RamboWasReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile engineer specializing in React Native. I build native modules, performance-focused libraries, and ship apps end-to-end.
 
-Here are some ideas to get you started:
+Based in Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
 
-I am a fullstack software engineer from Canada
-- 🔭 Working on multiple frontend and backend project using React, React-Native and laravel
+Building native-first React Native libraries targeting the New Architecture (Fabric + Turbo Modules).
 
-<br>
-## Connect with me
-<br>
-<br>
-<a href="https://www.linkedin.com/in/david-boutin-167651171/" target="_blank">
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-<br>
-<br>
+### Open source
 
-## Expertise
+**[react-native-gleam](https://github.com/RamboWasReal/react-native-gleam)** — Native shimmer loading for React Native. Zero dependencies, pure native animations (`CAGradientLayer` on iOS, `Choreographer` on Android). Fabric only.
 
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="react-native" src="https://img.shields.io/badge/react%20native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/-Javascript-efd81d?logo=javascript&logoColor=black&style=for-the-badge" />
-<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-%230069B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" alt="laravel" src="https://img.shields.io/badge/-Laravel-fa4f3b?logo=laravel&logoColor=white&style=for-the-badge" />
-<br>
-<br>
-<br>
-<br>
+## Stack
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rambowasreal&theme=dark" alt="rambowasreal" />
+`React Native` · `Expo` · `TypeScript` · `Swift` · `Kotlin` · `C++`
+
+Comfortable going fullstack when needed.
+
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-boutin-167651171/)
