@@ -12,6 +12,8 @@ Building native-first React Native libraries targeting the New Architecture (Fab
 
 **[react-native-gleam](https://github.com/RamboWasReal/react-native-gleam)** — Native shimmer loading for React Native. Zero dependencies, pure native animations (`CAGradientLayer` on iOS, `Choreographer` on Android). Fabric only.
 
+**[react-native-preflight](https://github.com/RamboWasReal/react-native-preflight)** — Makes Maestro E2E testing less painful for React Native. Deep link into any screen, browse scenarios from a dev catalog, catch visual regressions. Pure TypeScript.
+
 ## Stack
 
 `React Native` · `Expo` · `TypeScript` · `Swift` · `Kotlin` · `C++`
